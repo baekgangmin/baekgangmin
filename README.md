@@ -34,7 +34,7 @@ AI를 활용한 개발에 관심이 많은 개발자입니다. 헬스케어 도�
 ### 🩺 [Pilly-Pilly](https://github.com/baekgangmin/pilly-pilly) — AI 기반 알약 식별 및 복용 안전 지원 서비스
 사진 한 장으로 알약을 인식하고, 색상·모양·각인 같은 특징으로 검색해 복용 정보와 병용금기(DUR) 정보까지 안내해주는 헬스케어 서비스입니다. 3인 팀 프로젝트로 진행했고, 저는 **AI 모델 학습 및 데이터 전처리**(YOLOv8 기반 알약 탐지·분류, OCR)를 담당했습니다.
 
-- 기간: 2025.07 ~ 2025.08 (건양대학교 바이오메디컬 인공지능 과정)
+- 기간: 2025.07.01 ~ 2025.08.31 (건양대학교 바이오메디컬 인공지능 과정)
 - 기술: Flutter · FastAPI · YOLOv8 · Google OCR · MongoDB / SQLite
 - 주요 기능: 이미지 기반 알약 인식, 특징 기반 검색, 즐겨찾기·검색 기록, 복약 상담 챗봇(TTS)
 
@@ -48,7 +48,7 @@ GitHub 프로필 화면에서 Pinned repositories 기능을 함께 쓰면
 
 ## 📫 Contact & Links
 
-- 📝 포트폴리오 (Notion): 링크를 여기에 추가하세요
+- 📝 포트폴리오 (Notion): https://app.notion.com/p/Portfolio-245aa5b8e68f8004bb9ac9e5c0eff3be?source=copy_link
 - ✉️ osak7806@gmail.com
 <!-- itch.io, 블로그 등 준비되는 대로 아래에 추가하세요
 - 🎮 itch.io: https://itch.io/...
